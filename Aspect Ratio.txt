@@ -1,0 +1,24 @@
+Aspect Ratio = Wx by Hx
+h = Hx
+  = H(w/W)
+
+w = Wx
+  = W(h/H)
+
+h = height (ex 360)
+w = width (ex 480)
+H = ratio height (ex 3)
+W = ratio width (ex 4)
+
+Ratios
+1:1 (Overhead Projection)
+5:4 (Early Television/Computer Display)
+4:3 (Fullscreen)
+1.43:1 (IMAX)
+3:2 (Classic 35mm Film)
+16:10 (Common Computer Display)
+5:3 (European Widescreen)
+16:9 (US Widescreen; HD)
+1.85:1 (Cinema Film)
+21:9 (Anamorphic Widescreen)
+2.76:1 (Ultra Panavision 70)
